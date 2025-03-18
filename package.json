@@ -10,5 +10,12 @@
   },
   "dependencies": {
     "astro": "^5.5.3"
+  },
+  "packageManager": "pnpm@10.6.4",
+  "pnpm": {
+    "onlyBuiltDependencies": [
+      "esbuild",
+      "sharp"
+    ]
   }
 }
