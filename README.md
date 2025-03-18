@@ -1,6 +1,6 @@
 # libellus
 
-Smol indiviual pages
+Smol individual pages
 
 ## License
 
